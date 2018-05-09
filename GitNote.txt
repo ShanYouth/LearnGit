@@ -48,3 +48,4 @@ dev分支的工作完成，我们就可以切换回master分支：git checkout m
 合并完成后，就可以放心地删除dev分支了：git branch -d dev
 删除后，查看branch，就只剩下master分支了：
 
+测试.......
